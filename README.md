@@ -6,7 +6,12 @@ This api is developed with NestJS, Typescript, PostgreSQL and GraphQL with the p
 
 ## Installation & Running
 
-to do...
+- You will need:
+  - PostgreSQL
+  - Nodejs
+  - NPM
+
+- install dependencies with `npm install`
 
 ## Contact
 
