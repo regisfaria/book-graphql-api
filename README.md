@@ -13,6 +13,8 @@ This api is developed with NestJS, Typescript, PostgreSQL and GraphQL with the p
 
 - install dependencies with `npm install`
 
+- start server with `npm run start:dev`
+
 ## Contact
 
 Email: *regisprogramming@gmail.com*
